@@ -1,2 +1,2 @@
 # PythonLabWork
-Python Lab Works for Numerical Method
+Python Lab Works/Assignments for Numerical Method 
